@@ -1,0 +1,31 @@
+img{
+	width: 20%;
+	height: auto;
+}
+
+p{
+	line-height: 2.0
+}
+
+body{
+	background-color: bisque
+}
+
+h1{
+	color: bisque;
+	background-color:black;
+}
+
+div p{
+	background-color:cornsilk;
+}
+
+div span{
+	font-style: bold;
+	text-indent: 5em;
+	background-color: cornsilk;
+}
+
+h2{
+	background-color: darkolivegreen;
+}
